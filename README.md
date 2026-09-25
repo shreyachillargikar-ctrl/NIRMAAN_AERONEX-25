@@ -117,7 +117,8 @@ Instead of relying entirely on manual visual inspection, the system is designed 
 - Onboard mobile computing using a smartphone
 - Integrated aerial surveillance
 - Modular and scalable hardware architecture
-
+- Customised Battery
+- Automated charging Station 
 ---
 
 # 3.  KEY FEATURES
@@ -147,15 +148,7 @@ The onboard camera provides an aerial view of the search environment.
 The radio transmitter and receiver provide manual control capability when required.
 
 ###  Stable Flight Platfor
-## AI POWERED SEARCH AND RESCUE OPERATION DRONE
 
-AERONEX-25 is an AI-powered autonomous search and rescue drone designed to assist in locating and monitoring people during emergency situations.
-
----
-
-## AI Powered Search and Rescue Operation Drone
-
----
 
 ## System Architecture
 
@@ -561,7 +554,7 @@ flowchart TD
 | IMU | Attitude and motion sensing |
 | OnePlus 6T | Camera and AI computing |
 | AIR GEAR 450 ESC | Motor speed control |
-| 920KV BLDC Motors | Drone propulsion |
+| 920KV T Gear Motors | Drone propulsion |
 | T1045 Propellers | Thrust generation |
 | Custom Li-ion Battery | Power source |
 | Power Distribution / Power Module | Power distribution |
@@ -586,7 +579,7 @@ flowchart TD
 
 ## PROJECT OBJECTIVE
 
-The objective of AERONEX-25 is to provide an aerial platform capable of assisting search and rescue operations by combining autonomous flight, AI-based human detection, aerial surveillance, and real-time communication.
+The objective motive is to provide an aerial platform capable of assisting search and rescue operations by combining autonomous flight, AI-based human detection, aerial surveillance, and real-time communication.
 
 The system is designed to support search teams by providing aerial observation and target information over search areas.
 
@@ -611,7 +604,7 @@ The system is designed to support search teams by providing aerial observation a
 
 **Navigation:** NEO M10 GPS + Compass + IMU
 
-**Propulsion:** 4 × 920KV BLDC Motors + 4 × T1045 Propellers
+**Propulsion:** 4 × 920KV T Gear Motors + 4 × T1045 Propellers
 
 **ESC:** 4 × AIR GEAR 450 ESCs
 
