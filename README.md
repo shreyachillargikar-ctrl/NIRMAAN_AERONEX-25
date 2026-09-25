@@ -619,6 +619,6 @@ The system is designed to support search teams by providing aerial observation a
 
 ## CONCLUSION
 
-AERONEX-25 integrates autonomous flight, GPS navigation, AI-based human detection, onboard computing, telemetry, propulsion, and power management into a unified aerial search and rescue platform.
+OUR DRONE integrates autonomous flight, GPS navigation, AI-based human detection, onboard computing, telemetry, propulsion, and power management into a unified aerial search and rescue platform.
 
 The modular architecture allows the major subsystems to work together for autonomous search, human detection, monitoring, and rescue support.
